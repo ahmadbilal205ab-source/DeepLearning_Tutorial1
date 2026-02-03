@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.utils import shuffle
 # print("hello")
 
-x=input("Give 4 items")   
+x=input("Give 4 8 items")   
 
 
 
